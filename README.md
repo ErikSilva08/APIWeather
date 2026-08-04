@@ -128,11 +128,10 @@ src
 └── main
     └── java
         └── com.silvaSoftware.ClimaDoJogo
+            ├── config
             ├── controller
+            ├──exceptions
             ├── service
-            │   ├── MatchWeatherService
-            │   ├── GeoCodingService
-            │   └── WeatherService
             │
             └── dto
                 ├── dtoRequest
